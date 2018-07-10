@@ -1,11 +1,12 @@
 [
   {
-    "version": "0.5.0.100",
+    "version": "0.5.0.250",
     "versionCode": 1,
-    "releaseDate" : "10.07.2018",
+    "releaseDate" : "July 10, 2018",
     "releaseNotes": [
       "Added Actresess Section",
-      "Bug fixes"
+      "Added Favorites",
+      "Initial Realease"
     ]
   }
 ]
